@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# pwd: Reference
 
 > Print name of current/working directory.
 

@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# wc
 
 The `wc` (word count) command is used to display the number of lines, words and bytes contained in files.
 

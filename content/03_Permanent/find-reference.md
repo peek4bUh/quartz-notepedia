@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# find: Reference
 
 > Search for files in a directory hierarchy.
 

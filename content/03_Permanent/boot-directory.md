@@ -6,7 +6,6 @@ aliases:
   - /boot
 ---
 
-# Boot Directory
 
 Consists of the static bootloader, kernel executable, and files required to boot the Linux OS. Interesting files included `/boot/grub/grub.conf` or `menu.lst`, which is used to configure the boot loader and `/boot/vmlinuz` (or something similar), the Linux Kernel.
 

@@ -5,7 +5,6 @@ tags:
   - permanent
 ---
 
-# wget
 
 The `wget` command allows you to download files from FTP or HTTP servers directly from the terminal, and it serves as a good download manager. If you use `wget` in the same way, the difference to [[curl]] is that the website content is downloaded and stored locally.
 

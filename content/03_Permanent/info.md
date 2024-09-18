@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# info
 
 The GNU Project provides an alternative to man pages for their programs, called `info`. Info manuals are displayed with a reader program named named, appropriately enough, **info**. Info pages are _hyperlinked_ much like web pages.
 

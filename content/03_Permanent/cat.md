@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# cat
 
 The `cat` [[command|command]] reads files sequentially, writing them to standard output. The name is derived from its function to (con)<span class="highlight">cat</span>enate files (from Latin catenare, "to chain").
 

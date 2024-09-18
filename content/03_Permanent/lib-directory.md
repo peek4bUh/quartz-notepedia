@@ -6,7 +6,6 @@ aliases:
   - /lib
 ---
 
-# Lib Directory
 
 Contains shared library files used by the core system programs. These are similar to dynamic link (DLLs) in Windows.
 

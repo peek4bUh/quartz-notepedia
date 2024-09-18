@@ -5,7 +5,6 @@ tags:
   - note
 ---
 
-# How to Be a Good Hacker
 
 To be a good hacker you have to think outside the box to try to identify possible attack vectors on vulnerable machines because it's an essential part of the “hacker mentality” to solve complex problems. Remember that you can't learn everything because the field of information security is huge and continuously evolving, it's impossible to know everything about everything.
 

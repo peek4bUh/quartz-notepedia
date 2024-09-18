@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# chmod: Reference
 
 > Change the access permissions of a file or directory.
 

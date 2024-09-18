@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# xfreerdp: Reference
 
 > FreeRDP X11 client.
 

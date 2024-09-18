@@ -5,7 +5,6 @@ tags:
   - note
 ---
 
-# Connect to an Available Network in Linux
 
 Create a minimal config file inside `/etc/wpa_supplicant/wpa_supplicant.conf`
 

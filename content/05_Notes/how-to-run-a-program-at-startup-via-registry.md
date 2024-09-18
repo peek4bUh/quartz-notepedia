@@ -5,7 +5,6 @@ tags:
   - note
 ---
 
-# How to Run a Program at Startup via Registry
 
 ## Start the program only at the current user
 

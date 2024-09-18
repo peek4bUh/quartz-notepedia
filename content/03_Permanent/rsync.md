@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# rsync
 
 `rsync` it's a great tool for creating/maintaining backups and keeping remote machines in sync with each other.
 

@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# ftp: Reference
 
 > Tools to interact with a server via File Transfer Protocol.
 

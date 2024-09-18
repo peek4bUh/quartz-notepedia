@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# chgrp: Reference
 
 > Change group ownership of files and directories.
 

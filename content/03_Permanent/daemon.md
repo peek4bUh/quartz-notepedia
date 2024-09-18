@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Daemon
 
 A **daemon** is a program that just sits in the background and do his thing without having any user interface. So, even if you are not logged in, the system is at least a little busy performing routine stuff.
 

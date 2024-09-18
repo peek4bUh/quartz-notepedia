@@ -8,7 +8,6 @@ tags:
   - command-reference
 ---
 
-# tail: Reference
 
 > Output the last part of files.
 

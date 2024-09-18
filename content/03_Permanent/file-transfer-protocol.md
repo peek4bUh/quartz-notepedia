@@ -5,7 +5,6 @@ tags:
   - permanent
 ---
 
-# File Transfer Protocol
 
 The **File Transfer Protocol** (**FTP**) is a native protocol to all host operating systems and used for a long time for simple file transfer tasks, be they automated or manual. **FTP** can be easily misconfigured if not correctly understood. Users can download and upload files from the client (their own host) to the server (a centralized data storage device) or vice versa.
 

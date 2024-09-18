@@ -8,7 +8,6 @@ tags:
   - permanent
 ---
 
-# Dev Directory
 
 Special directory that contains device files. Here is where the kernel maintains a list of every hardware device attached to the system.
 

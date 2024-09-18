@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# rm: Reference
 
 Unix-like operating systems such as Linux do not have an undelete command. Once you delete something with `rm`, it's gone.
 Be particularly careful with wildcards. Consider this classic example. Let's say you want to delete just HTML files in a directory. To do this, you type the following:

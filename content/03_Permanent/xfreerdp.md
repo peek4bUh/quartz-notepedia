@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# xfreerdp
 
 The `xfreerdp` command is used to connect to the target to get a remote desktop projection on your screen.
 

@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# sudo: Reference
 
 ```bash
 # Run a command as the superuser

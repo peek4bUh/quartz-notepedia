@@ -8,7 +8,6 @@ tags:
   - permanent
 ---
 
-# /etc Directory
 
 Contains all the system-wide configuration files. It also contains a collection of shell scripts that start each of the system services at boot time. Everything in this directory should be readable text.
 

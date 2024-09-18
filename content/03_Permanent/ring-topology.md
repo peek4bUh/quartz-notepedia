@@ -6,7 +6,6 @@ aliases:
   - token topology
 ---
 
-# Ring Topology
 
 The **ring topology** or **token topology** boasts some similarities. Devices such as computers are connected directly to each other to form a loop, meaning that there is little cabling required and less dependence on dedicated hardware such as within a star topology.
 

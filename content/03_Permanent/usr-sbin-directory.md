@@ -6,7 +6,6 @@ aliases:
   - /usr/sbin
 ---
 
-# /usr/sbin Directory
 
 The `/usr/sbin` directory contains system administration programs.
 

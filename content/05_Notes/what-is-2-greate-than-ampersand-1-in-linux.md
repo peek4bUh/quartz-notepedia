@@ -5,7 +5,6 @@ tags:
   - note
 ---
 
-# What is 2>&1 in Linux
 
 In [[Linux Philosophy]], `2>&1` is used for redirecting the standard error (file descriptor 2) to the same location as the standard output (file descriptor 1). This is often used in command-line operations to ensure that both standard output and standard error are captured or redirected to the same location, typically a file or another command.
 

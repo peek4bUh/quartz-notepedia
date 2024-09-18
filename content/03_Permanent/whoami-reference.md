@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# whoami
 
 > Print the username associated with the current effective user ID.
 

@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# less
 
 The `less` program was designed as an improved replacement of an earlier Unix program called [[more-reference|more(1)]], `less` falls into the class of programs called [[terminal-pager|terminal pager]]. The `less` program allows paging both forward and backward and has many other features as well.
 

@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# /var/log/auth.log File
 
 The `/var/log/auth.log` file contains information about user authentication attempts, including successful and failed attempts.
 

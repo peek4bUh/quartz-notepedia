@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# cd: Reference
 
 > Change the working directory
 

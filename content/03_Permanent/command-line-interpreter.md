@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Command-line Interpreter
 
 A **command line interpreter** (**CLI**) is any program that allows to enter [[command|commands]] and then execute those commands to the [[operating system]].
 

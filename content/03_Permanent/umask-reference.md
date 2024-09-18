@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# umask: Reference
 
 > Manage the read/write/execute permissions that are masked out (i.e. restricted) for newly created files by the user..
 

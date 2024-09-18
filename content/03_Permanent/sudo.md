@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# sudo
 
 The `sudo` [[command|command]] is like [[su-reference|su]] in many ways but has some important additional capabilities. The administrator can configure `sudo` to allow an ordinary user to execute commands as a different user in a controlled way.
 

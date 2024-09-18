@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Bus Topology
 
 The **bus topology** is a type of connection relies upon a single connection which is known as a backbone cable. Is similar to the leaf off of a tree in the sense that devices (leaves) stem from where the branches are on this cable.
 

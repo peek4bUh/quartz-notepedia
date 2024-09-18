@@ -8,7 +8,6 @@ tags:
   - command-reference
 ---
 
-# head: Reference
 
 > Output the first part of files.
 

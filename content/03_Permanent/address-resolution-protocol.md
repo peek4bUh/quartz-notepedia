@@ -8,7 +8,6 @@ aliases:
   - ARP
 ---
 
-# Address Resolution Protocol
 
 The **Address Resolution Protocol** (**ARP**) is a technology responsible of allowing devices to identify themselves on a network.
 

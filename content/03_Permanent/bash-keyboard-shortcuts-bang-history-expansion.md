@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Bash Keyboard Shortcuts: Bang History Expansion
 
 | Shortcut  | Usage                                                                                                           |
 | --------- | --------------------------------------------------------------------------------------------------------------- |

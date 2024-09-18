@@ -6,7 +6,6 @@ aliases:
   - /usr/share/doc
 ---
 
-# /usr/share/doc Directory
 
 The `/usr/share/doc` directory contains the packages installed on the system will include some kind of documentation. In this directory you will find documentation files organized by package. Most of these are stored in ordinary text format and can be viewed with the [[less]] command.
 

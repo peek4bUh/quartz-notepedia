@@ -8,7 +8,6 @@ tags:
   - command-reference
 ---
 
-# curl: Reference
 
 > Transfer a URL
 

@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Bash Keyboard Shortcuts: Editing Text
 
 | Shortcut      | Usage                                                                                  |
 | ------------- | -------------------------------------------------------------------------------------- |

@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# tee: Reference
 
 > Read from standard input and write to standard output and files.
 

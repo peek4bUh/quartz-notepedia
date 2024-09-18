@@ -8,7 +8,6 @@ binaryType:
   - brute-forcing
 ---
 
-# gobuster: Reference
 
 > Directory/file & DNS busting tool.
 

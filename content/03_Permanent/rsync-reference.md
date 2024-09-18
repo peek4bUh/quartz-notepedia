@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# rsync: Reference
 
 > A fast, versatile, remote (and local) file-copying tool.
 

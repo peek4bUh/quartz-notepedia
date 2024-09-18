@@ -7,7 +7,6 @@ tags:
 binaryType: files-commands-info
 ---
 
-# file: Reference
 
 > Determine file type.
 

@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# echo: Reference
 
 > Display a line of text.
 

@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# mysql: Reference
 
 > The MariaDB command-line tool (mysql is now a symlink to mariadb)
 

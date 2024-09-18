@@ -6,7 +6,6 @@ aliases:
   - /tmp
 ---
 
-# /tmp Directory
 
 This directory is intended for the storage of temporary, transient files created by various programs. Some configurations cause this directory to be emptied each time the system is rebooted.
 

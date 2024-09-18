@@ -7,7 +7,6 @@ tags:
   - permanent
 ---
 
-# /root Directory
 
 The home directory of the root account.
 

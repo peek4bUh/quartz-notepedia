@@ -7,7 +7,6 @@ tags:
   - permanent
 ---
 
-# Command Prompt
 
 A **command prompt** or **prompt** is a sequence of one or more characters used in a [[command-line-interface|command-line Interface]] to indicate that it is ready to accept commands.
 

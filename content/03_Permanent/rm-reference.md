@@ -8,7 +8,6 @@ tags:
   - command-reference
 ---
 
-# rm: Reference
 
 > Remove files or directories.
 

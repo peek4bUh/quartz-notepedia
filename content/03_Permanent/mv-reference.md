@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# mv: Reference
 
 > Move or rename files and directories.
 

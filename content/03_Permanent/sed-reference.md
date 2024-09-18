@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# sed: Reference
 
 > Stream editor for filtering and transforming text.
 

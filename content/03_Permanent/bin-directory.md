@@ -6,7 +6,6 @@ aliases:
   - /bin
 ---
 
-# /bin Directory
 
 The `/bin` directory contains essential command binaries (programs) that must be present for the system to boot and run.
 

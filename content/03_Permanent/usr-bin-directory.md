@@ -6,7 +6,6 @@ aliases:
   - /usr/bin
 ---
 
-# /usr/bin Directory
 
 The `/usr/bin` directory contains the executable programs installed by your Linux distribution. It is not uncommon for this directory to hold thousands of programs.
 

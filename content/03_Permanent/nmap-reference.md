@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# nmap: Reference
 
 > Network exploration tool and security / port scanner.
 

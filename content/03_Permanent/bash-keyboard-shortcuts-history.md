@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Bash Keyboard Shortcuts: History
 
 | Shortcut            | Usage                                                             |
 | ------------------- | ----------------------------------------------------------------- |

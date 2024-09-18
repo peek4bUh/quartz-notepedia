@@ -5,7 +5,6 @@ tags:
   - note
 ---
 
-# Remove Ads in MIUI
 
 ## Revoking authorization of the MSA app
 

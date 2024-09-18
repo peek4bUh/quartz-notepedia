@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# tail
 
 The `tail` command by default prints the last 10 lines of each FILE to standard output. With more than one FILE, precede each with a header giving the file name.
 

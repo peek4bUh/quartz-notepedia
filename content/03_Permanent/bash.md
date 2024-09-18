@@ -4,7 +4,6 @@ parent: "[[computing-moc]]"
 language: english
 ---
 
-# Bash
 
 **Bash** is the [[shell|shell]], or [[command language interpreter]], for the **GNU** [[Operating System]]. The name is an acronym for the "**B**ourne-**A**gain **Sh**ell", a pun on Stephen Bourne, the author of the direct ancestor of the current Unix shell sh.
 

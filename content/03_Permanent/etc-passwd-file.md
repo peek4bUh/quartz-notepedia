@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# /etc/passwd File
 
 The `/etc/passwd` file contains basic user attributes. This is an ASCII file that contains an entry for each user. Each entry defines the basic attributes applied to a user.
 

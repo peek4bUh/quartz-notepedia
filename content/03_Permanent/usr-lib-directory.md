@@ -6,7 +6,6 @@ aliases:
   - /usr/lib
 ---
 
-# /usr/lib Directory
 
 The `/usr/lib` directory shares libraries for the programs in [[usr-bin-directory|/usr/bin]].
 

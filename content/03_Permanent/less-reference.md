@@ -8,7 +8,6 @@ tags:
   - command-reference
 ---
 
-# less: Reference
 
 > Open a file for interactive reading, allowing scrolling and search.
 

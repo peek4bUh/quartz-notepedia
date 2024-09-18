@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# more: Reference
 
 > File perusal filter for crt viewing.
 

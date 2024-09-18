@@ -8,7 +8,6 @@ tags:
   - permanent
 ---
 
-# /sbin Directory
 
 This directory contains "system" binaries. These are programs that perform vital system tasks that are generally reserved for the superuser.
 

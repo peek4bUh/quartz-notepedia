@@ -4,7 +4,6 @@ parent: "[[computing-moc]]"
 language: english
 ---
 
-# Computer Networking
 
 **Computer networking** is things connected like computers, laptops, phones, printers, etc... that can exchange data and share resources with each other. These networked devices use a system of rules, called communications protocols, to transmit information over physical or wireless technologies.
 

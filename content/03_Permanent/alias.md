@@ -5,7 +5,6 @@ tags:
   - permanent
 ---
 
-# alias
 
 The `alias` [[command|command]] allows you to create replacements for other commands and make them easier to remember and use.
 

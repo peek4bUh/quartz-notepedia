@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# help
 
 This is a [[bash|bash]] built-in facility to display information about each [[shell|shell]] builtin.
 

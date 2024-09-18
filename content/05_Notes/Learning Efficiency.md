@@ -4,7 +4,6 @@ tags:
   - note
 ---
 
-# Learning Efficiency
 
 The problem here is the sheer size of the information security or another programming related field. There is a lot to learn and many topics to cover. I need to understand how things work, how they are structured, and how to use them.
 

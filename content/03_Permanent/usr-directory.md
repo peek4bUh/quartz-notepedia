@@ -6,7 +6,6 @@ aliases:
   - /usr
 ---
 
-# /usr Directory
 
 The `/usr` directory tree is likely the largest one on a Linux system. It contains all the programs and support files used by regular users.
 

@@ -8,7 +8,6 @@ tags:
   - command-reference
 ---
 
-# help: Reference
 
 > Display information about Bash builtin commands.
 

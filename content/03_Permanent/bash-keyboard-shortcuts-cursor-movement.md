@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Bash Keyboard Shortcuts: Cursor Movement
 
 | Shortcut                    | Usage                                                         |
 | --------------------------- | ------------------------------------------------------------- |

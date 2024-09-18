@@ -5,7 +5,6 @@ tags:
   - note
 ---
 
-# Show Archived Mails in Gmail
 
 ```
 has:nouserlabels -in:inbox -in:sent

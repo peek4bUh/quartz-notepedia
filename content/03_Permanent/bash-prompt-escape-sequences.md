@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Bash Prompt Escape Sequences
 
 [[bash|Bash]] allows these prompt strings to be customized by inserting a number of backslash-escaped special characters that are decoded as follows:
 

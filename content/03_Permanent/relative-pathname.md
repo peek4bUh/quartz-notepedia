@@ -4,7 +4,6 @@ parent: "[[computing-moc]]"
 language: english
 ---
 
-# Relative Pathname
 
 A **relative pathname** starts from the working directory. To do this, it uses a couple of special notations to represent relative positions in the file system tree.
 

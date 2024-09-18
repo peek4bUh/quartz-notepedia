@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# su: Reference
 
 > Switch shell to another user.
 

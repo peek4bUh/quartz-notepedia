@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# head
 
 > Output the first part of files.
 

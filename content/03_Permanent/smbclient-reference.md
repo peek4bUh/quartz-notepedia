@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# smbclient: Reference
 
 > FTP-like client to access SMB/CIFS resources on servers.
 

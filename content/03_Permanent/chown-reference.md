@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# chown: Reference
 
 > Change owner and group ownership of files and directories.
 

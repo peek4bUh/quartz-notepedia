@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# ln: Reference
 
 > Creates links to files and directories.
 

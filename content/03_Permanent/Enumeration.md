@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# Enumeration
 
 **Enumeration** is the process of document the current state of the target to learn as much as possible to discover potential attack vectors in the system.
 

@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# uniq: Reference
 
 > Report or omit repeated lines.
 

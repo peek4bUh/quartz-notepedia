@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# ping: Reference
 
 > Send ICMP ECHO_REQUEST to network hosts.
 

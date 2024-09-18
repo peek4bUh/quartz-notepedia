@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Absolute Pathname
 
 An **absolute pathname** begins with the [[root-directory|root directory]] (`/`) and follows the tree branch by branch until the path to the desired directory or file completed.
 

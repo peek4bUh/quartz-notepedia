@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Bash Prompt Colors
 
 Character color is controlled by sending the [[Terminal Emulator|terminal emulator]] an ANSI escape code embedded in the stream of characters to be displayed. The control code does not print out on the display; rather, it is interpreted by the terminal as an instruction.
 

@@ -6,7 +6,6 @@ aliases:
   - /opt
 ---
 
-# /opt Directory
 
 This directory is used to install "optional" software. This is mainly used to hold commercial software products that might be installed on the system.
 

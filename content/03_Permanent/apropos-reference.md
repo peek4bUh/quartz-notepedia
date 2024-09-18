@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# apropos: Reference
 
 > Search the manual pages for names and descriptions.
 

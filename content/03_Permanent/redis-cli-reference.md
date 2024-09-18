@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# redis-cli: Reference
 
 > Command-line client to redis-server.
 

@@ -6,7 +6,6 @@ aliases:
   - /var
 ---
 
-# /var Directory
 
 The `/var` directory tree is where data that is likely to change is stored. Various databases, spool files, user mail and more.
 

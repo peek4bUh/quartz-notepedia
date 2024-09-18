@@ -6,7 +6,6 @@ aliases:
   - /media
 ---
 
-# /media Directory
 
 On modern Linux systems, this directory will contain the mount points for removable media such as USB drives, CD-ROMs and so on, that are mounted automatically at insertion.
 

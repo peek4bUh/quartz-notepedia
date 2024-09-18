@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Bash Prompt
 
 [[bash|Bash]] has five [[command-prompt|prompt strings]] that can be customized:
 

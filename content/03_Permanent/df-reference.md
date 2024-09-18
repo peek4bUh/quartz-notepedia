@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# df: Reference
 
 > Display an overview of the filesystem disk space usage.
 

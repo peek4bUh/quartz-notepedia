@@ -5,7 +5,6 @@ tags:
   - note
 ---
 
-# APA 7th Edition
 
 ## Questions & Answers
 

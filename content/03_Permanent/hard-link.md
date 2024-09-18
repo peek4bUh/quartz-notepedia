@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Hard Link
 
 The difference with [[soft-link|soft link]] is that **hard links** allow files to have multiple names, but they do it in a different way.
 

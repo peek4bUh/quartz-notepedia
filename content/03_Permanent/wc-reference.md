@@ -8,7 +8,6 @@ tags:
   - command-reference
 ---
 
-# wc: Reference
 
 > Count lines, words, and bytes.
 

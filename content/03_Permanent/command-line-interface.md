@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Command-line Interface
 
 A **command line interface** (**CLI**) is a way to interact with a [computer program](https://en.wikipedia.org/wiki/Computer_program "Computer program") by entering lines of text called [command-lines](<https://en.wikipedia.org/wiki/Command_(computing)> "Command (computing)").
 

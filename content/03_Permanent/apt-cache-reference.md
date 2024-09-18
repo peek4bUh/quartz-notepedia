@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# apt-cache: Reference
 
 ```bash
 # View additional information about the package

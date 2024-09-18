@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Internet
 
 The **Internet** is one giant network that consists of many small networks within itself.
 

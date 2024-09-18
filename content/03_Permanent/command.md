@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Command
 
 A **command** can be one of four different things:
 

@@ -5,7 +5,6 @@ tags:
   - note
 ---
 
-# Connect to a Known SSID in Linux
 
 ## Manual
 

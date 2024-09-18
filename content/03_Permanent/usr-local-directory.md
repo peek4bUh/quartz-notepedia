@@ -6,7 +6,6 @@ aliases:
   - /usr/local
 ---
 
-# /usr/local Directory
 
 The `/usr/local` directory is where programs that are not included with your distribution but are intended for system-wide use are installed. Programs compiled from source code are normally installed in `/usr/local/bin`. On a newly installed Linux system, this tree exists, but it will be empty until the system administrator puts something in it.
 

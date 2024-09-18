@@ -6,7 +6,6 @@ aliases:
   - virtual terminal
 ---
 
-# Virtual Console
 
 A **virtual console** or **virtual terminal** is a feature of some Unix-like operating systems in which the system console of the computer can be used to switch between multiple virtual consoles to access unrelated user interfaces.
 

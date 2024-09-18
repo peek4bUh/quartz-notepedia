@@ -5,7 +5,6 @@ tags:
   - permanent
 ---
 
-# curl
 
 The `curl` command allows to transfer files from the [[shell|shell]] over protocols like `HTTP`, `HTTPS`, `FTP`, `SFTP`, `FTPS`, or `SCP`. This tool gives you the possibility to control and test websites remotely. Besides the remote servers' content, you can also view individual requests to look at the client's and server's communication.
 

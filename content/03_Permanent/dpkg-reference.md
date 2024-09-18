@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# dpkg: Reference
 
 ```bash
 # Install a package (need admin privileges)

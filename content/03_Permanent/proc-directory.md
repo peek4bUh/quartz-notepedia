@@ -8,7 +8,6 @@ tags:
   - permanent
 ---
 
-# /proc Directory
 
 This is a special directory. It's not a real file system in the sense of the files stored on your hard drive. Rather, it is a virtual file system maintained by the Linux kernel. The "files" it contains are peepholes into the kernel itself. The files are readable and will give you a picture of how the kernel sees your computer.
 

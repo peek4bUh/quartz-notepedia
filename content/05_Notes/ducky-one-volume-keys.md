@@ -5,7 +5,6 @@ tags:
   - note
 ---
 
-# Ducky One Volume Keys
 
 To use media keys you must record a macro to bind the media function to a hotkey combination, i.e. `Fn` plus some key.
 

@@ -6,7 +6,6 @@ aliases:
   - /mnt
 ---
 
-# /mnt Directory
 
 On older Linux systems, this directory contains mount points for removable devices that have been mounted manually.
 

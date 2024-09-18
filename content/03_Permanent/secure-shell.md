@@ -5,7 +5,6 @@ tags:
   - permanent
 ---
 
-# Secure Shell
 
 The **secure shell** (**SSH**) consists of two parts. An ssh server runs on the remote host, listening for incoming connections, by default, on port 22, while an SSH client is used on the local system to communicate with the remote server.
 

@@ -8,7 +8,6 @@ tags:
   - command-reference
 ---
 
-# cat: Reference
 
 > Concatenate files and print on the standard output.
 

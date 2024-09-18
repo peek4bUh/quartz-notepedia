@@ -3,7 +3,6 @@ title: 'Filesystem Hierarchy Standard'
 language: english
 ---
 
-# Filesystem Hierarchy Standard
 
 The Linux operating system is structured in a tree-like hierarchy and is documented in the [Filesystem Hierarchy](http://www.pathname.com/fhs/) Standard (FHS).
 

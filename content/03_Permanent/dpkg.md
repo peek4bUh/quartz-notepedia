@@ -5,7 +5,6 @@ tags:
   - permanent
 ---
 
-# dpkg
 
 The `dpkg` is a tool to install, build, remove, and manage Debian packages. The primary and more user-friendly front-end for `dpkg` is aptitude.
 

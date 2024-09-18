@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# Bash Keyboard Shortcuts
 
 [[bash|Bash]] uses a library called _Readline_ to implement the command line editing.
 

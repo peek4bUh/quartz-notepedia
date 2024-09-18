@@ -5,7 +5,6 @@ tags:
   - note
 ---
 
-# Questions & Answers
 
 - [How did the .m2 folder in Maven get its name?](https://stackoverflow.com/a/19306405)
 - [How does cmd > /dev/null 2>&1 work?](https://stackoverflow.com/a/16995472)

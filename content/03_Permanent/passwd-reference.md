@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# passwd: Reference
 
 > Change a user's password.
 

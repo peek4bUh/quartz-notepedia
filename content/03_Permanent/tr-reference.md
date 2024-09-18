@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# tr: Reference
 
 > Translate or delete characters.
 

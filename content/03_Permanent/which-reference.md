@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# which: Reference
 
 > Show the full path of (shell) commands.
 

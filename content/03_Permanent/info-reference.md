@@ -8,7 +8,6 @@ tags:
   - command-reference
 ---
 
-# info: Reference
 
 > Reads documentation stored in the info format.
 

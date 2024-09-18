@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# cp: Reference
 
 > Copy files and directories.
 

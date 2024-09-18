@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# apt: Reference
 
 ```bash
 # List all installed packages

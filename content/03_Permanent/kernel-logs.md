@@ -6,7 +6,6 @@ tags:
   - permanent
 ---
 
-# /var/log/kern.log File
 
 The `/var/log/kern.log` file contains information about the system's kernel (hardware drivers, system calls, kernel events, etc...).
 

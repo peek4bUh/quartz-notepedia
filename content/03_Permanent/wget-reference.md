@@ -8,7 +8,6 @@ tags:
   - command-reference
 ---
 
-# wget: Reference
 
 > The non-interactive network downloader.
 

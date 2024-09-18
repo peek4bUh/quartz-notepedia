@@ -7,7 +7,6 @@ tags:
   - permanent
 ---
 
-# Man Page
 
 The **man page** or **manual page** is a type of documentation usually found on a [[Unix]] or [[Unix-like]] [[operating system]].
 

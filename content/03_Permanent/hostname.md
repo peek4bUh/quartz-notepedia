@@ -4,7 +4,6 @@ tags:
   - permanent
 ---
 
-# hostname
 
 > Creates aliases -- words that are replaced by a command string
 

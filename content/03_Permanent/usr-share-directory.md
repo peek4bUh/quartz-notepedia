@@ -6,7 +6,6 @@ aliases:
   - /usr/share
 ---
 
-# /usr/share Directory
 
 The `/usr/sbin` directory contains all the shared data used by programs in [[usr-bin-directory|/usr/bin]]. This includes things such as default configuration files, icons, screen backgrounds, sound files and so on.
 

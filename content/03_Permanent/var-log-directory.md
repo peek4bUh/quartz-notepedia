@@ -6,7 +6,6 @@ aliases:
   - /var/log
 ---
 
-# /var/log Directory
 
 The `/var/log` directory contains log files, records of various system activity. These are important and should be monitored from time to time.
 

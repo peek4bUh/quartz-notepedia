@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# date: Reference
 
 > Set or display the system date
 

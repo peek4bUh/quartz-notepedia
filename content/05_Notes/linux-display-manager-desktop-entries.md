@@ -5,7 +5,6 @@ tags:
   - note
 ---
 
-# Linux Display Manager Desktop Entries
 
 When using a display manager like `ly` or other, you can choose what `DE` or `wm` can appear
 

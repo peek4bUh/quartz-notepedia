@@ -8,7 +8,6 @@ tags:
   - command-reference
 ---
 
-# man: Reference
 
 > Format and display manual pages.
 

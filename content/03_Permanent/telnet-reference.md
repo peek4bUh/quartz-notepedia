@@ -6,7 +6,6 @@ tags:
   - command-reference
 ---
 
-# telnet: Reference
 
 > Connect to a specified port of a host using the telnet protocol.
 

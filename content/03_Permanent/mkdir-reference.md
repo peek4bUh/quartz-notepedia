@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# mkdir: Reference
 
 > Create directories and set their permissions.
 

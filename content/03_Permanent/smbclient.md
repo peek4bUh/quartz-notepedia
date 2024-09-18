@@ -5,7 +5,6 @@ tags:
   - permanent
 ---
 
-# smbclient
 
 To enumerate share content on the target machine, you can use the `smbclient`.
 

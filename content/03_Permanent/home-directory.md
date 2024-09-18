@@ -6,7 +6,6 @@ aliases:
   - /home
 ---
 
-# Home Directory
 
 In normal configurations, each user is given a directory with his name inside `/home`. Ordinary users can write files only in their home directories. This limitation protects the system from the errant user activity.
 

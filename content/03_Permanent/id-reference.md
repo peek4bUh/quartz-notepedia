@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# id: Reference
 
 > Display current user and group identity.
 

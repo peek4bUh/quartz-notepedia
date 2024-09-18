@@ -8,7 +8,6 @@ tags:
   - command-reference
 ---
 
-# alias: Reference
 
 > Creates aliases -- words that are replaced by a command string
 

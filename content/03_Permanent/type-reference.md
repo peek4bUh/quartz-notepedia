@@ -7,7 +7,6 @@ tags:
   - command-reference
 ---
 
-# type: Reference
 
 > Display the type of command the shell will execute.
 

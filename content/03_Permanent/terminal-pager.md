@@ -9,7 +9,6 @@ tags:
   - permanent
 ---
 
-# Terminal Pager
 
 A **terminal pager**, **paging program** or simply **pager** is a program that allow the easy viewing of long text documents in a page-by-page manner.
 
